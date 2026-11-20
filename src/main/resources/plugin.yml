@@ -1,0 +1,6 @@
+name: CoinEconomyPlaceholder
+version: 1.0.0
+main: com.kallstore.coinplaceholder.CoinEconomyPlaceholderPlugin
+api-version: '1.21'
+depend: [CoinEconomy, PlaceholderAPI]
+description: PlaceholderAPI expansion for CoinEconomy.
